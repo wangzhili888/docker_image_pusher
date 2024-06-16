@@ -21,3 +21,4 @@ hisatri/lyricapi
 a76yyyy/qiandao
 allanpk716/chinesesubfinder
 easychen/cookiecloud
+moelin/1panel
