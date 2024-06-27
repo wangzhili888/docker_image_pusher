@@ -1,6 +1,7 @@
 jxxghp/moviepilot
 xiaoyaliu/alist
 linuxserver/transmission
+linuxserver/transmission:4.0.5
 iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
 emby/embyserver:beta
